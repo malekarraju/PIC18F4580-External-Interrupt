@@ -38,6 +38,31 @@ A hands-on Embedded C project demonstrating external interrupts on the PIC18F458
 - ISR implementation
 - Hardware simulation and debugging
 
+  ## Project Files
+
+- [Embedded C Source Code](Source_Code/)
+- [Proteus Projects and Circuit Diagrams](Proteus/)
+
+## Project Structure
+
+```text
+PIC18F4580-External-Interrupt/
+├── README.md
+├── Source_Code/
+│   ├── README.md
+│   ├── ext_intr0.c
+│   ├── ext_intr1.c
+│   └── ext_intr2.c
+└── Proteus/
+    ├── README.md
+    ├── ext_intr0.pdsprj
+    ├── ext_intr0.png
+    ├── ext_intr1.pdsprj
+    ├── ext_intr1.png
+    ├── ext_intr2.pdsprj
+    └── ext_intr2.png
+```
+
 ## Author
 Raju Malekar
 
